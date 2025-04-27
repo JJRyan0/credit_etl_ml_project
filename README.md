@@ -1,6 +1,6 @@
 # Credit Risk Pipeline: End-to-End Data + ML Project
 
-This project simulates a real-world credit scoring pipeline — built with dbt, Python, Postgres, and scikit-learn — to demonstrate data engineering and MLOps capabilities.
+This project simulates a real-world credit scoring pipeline, built with dbt, Python, Postgres, and scikit-learn to demonstrate data engineering and MLOps capabilities.
 
 ## 🔧 Tech Stack
 - dbt for data modeling (staging + transformations)
