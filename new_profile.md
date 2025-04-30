@@ -37,6 +37,7 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 | [⚡️ PySpark MLlib TF-IDF Extraction](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Apache%20Spark%20(MLlib)%20-%20%20Extracting%20Text%20Features%20for%20TF-IDF.ipynb) | Built a feature extraction model using TF-IDF for natural language processing tasks with PySpark MLlib. |
 | [🔧 ETL Pipeline using Python, Pandas, and SQL ] | ( ) |
 | [💡 DBT incremental model for SCD type 2 Customer Dimension](https://github.com/JJRyan0/dbt_scd2_customer_dim/tree/main) |  Incremental model for a historical load for Type 2 Slowly Changing Dimension (SCD) in dbt using SQL Server, Compareing full source to target, expire old records, insert new records. |
+| [⚡️PySpark - Slowly Changing Dimension (SCD) Type 1]() |      |
 
 ---
 
@@ -44,9 +45,17 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 
 | Project | Description |
 |--------|-------------|
-| [✅ Test Script Scenarios for RESful API](https://github.com/JJRyan0/rest_api_test_cases)) | This Postman and JavaScript test suite verifies the reliability and performance of an image website's RESTful API by checking response time, data accuracy, and JSON structure. |
+| [✅ Test Script Scenarios for RESful API](https://github.com/JJRyan0/rest_api_test_cases) | This Postman and JavaScript test suite verifies the reliability and performance of an image website's RESTful API by checking response time, data accuracy, and JSON structure. |
 | [🌏 World Bank API – extract economic trend data to BigQuery  ] | (  ) |
 | [ Git hub API data extraction] | ( ) |
+
+---
+
+### Data & Business Analysis
+
+| Project | Description |
+|--------|-------------|
+| [📈 Calculating Revenue Growth Percentage using SQL, Pandas, Python3 Functions](https://github.com/JJRyan0/credit_risk_modeling_analysis/blob/main/Calculating%20Revenue%20Growth%20Percent.ipynb) | This is a key financial metric that shows the rate at which a value (such as revenue, profit, or customer count) has increased or decreased compared to the previous month. |
 
 ---
 
