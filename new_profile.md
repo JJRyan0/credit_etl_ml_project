@@ -6,7 +6,7 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 
 ### What I Bring:
 
-- 🔍 **Data Integration & BI Expertise**: Designing and implementing ETL pipelines, curated schemas, and robust reporting layers.
+- 🔍 **Data Integration & ML Expertise**: Designing and implementing MLOps & ETL pipelines, Feature engineering, and robust reporting layers.
 - 🤝 **Business Alignment**: I bridge the gap between technical teams and business stakeholders to deliver real, measurable outcomes.
 - 📈 **Analytics with Impact**: Passionate about turning complex datasets into clear, accessible, and strategic insights.
 
@@ -46,7 +46,7 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 |--------|-------------|
 | [✅ Test Script Scenarios for RESful API](https://github.com/JJRyan0/rest_api_test_cases)) | This Postman and JavaScript test suite verifies the reliability and performance of an image website's RESTful API by checking response time, data accuracy, and JSON structure. |
 | [🌏 World Bank API – extract economic trend data to BigQuery  ] | (  ) |
-
+| [ Git hub API data extraction] | ( ) |
 
 ---
 
