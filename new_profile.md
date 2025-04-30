@@ -6,7 +6,7 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 
 ### What I Bring:
 
-- 🔍 **Data Integration & ML Expertise**: Designing and implementing MLOps & ETL pipelines, Feature engineering, and robust reporting layers.
+- 🔍 **Data Integration & ML Expertise**: Designing and implementing MLOps & ETL pipelines, Data models, Feature engineering, and robust reporting layers.
 - 🤝 **Business Alignment**: I bridge the gap between technical teams and business stakeholders to deliver real, measurable outcomes.
 - 📈 **Analytics with Impact**: Passionate about turning complex datasets into clear, accessible, and strategic insights.
 
