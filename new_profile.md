@@ -18,12 +18,12 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 
 | Project | Description |
 |--------|-------------|
+| [📉 XGBoost Credit Default Prediction](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/KFold%20CV-Credit%20Card%20Default%20Prediction%20-%20Logistic%20Regression.ipynb) | This project simulates a real-world credit scoring pipeline, built with dbt, Python, Postgres, and scikit-learn to demonstrate data engineering and MLOps capabilities. Productionalizing a machine learning workflow, FastAPI for real-time scoring, MLflow for model versioning. |
 | [🤖 IBM Watson AI Visual Recognition App](https://github.com/JJRyan0/ibm-watson-visual-recognition-system-identifying-junction-types) | Trained IBM Watson's image recognition service on IBM Cloud to classify road junctions for digital motor claims. Built using Python, IBM Cloud, IBM Watson Classifier, and YAML. |
-| [📊 Python Data Science Projects](https://github.com/JJRyan0/john-python-jupyter-notebooks) | Collection of regression, classification, and model evaluation notebooks (GBM, RF, Logistic Regression) using sklearn, numpy, seaborn, MLlib, and pandas. |
 | [🧠 ML for Insurance Claims](https://gist.github.com/JJRyan0/0625271b52cf2ac5cfbffa79f1ab471f) | Built a machine learning system to automate insurance claim approval using scikit-learn and pandas. |
-| [📉 Credit Default Prediction](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/KFold%20CV-Credit%20Card%20Default%20Prediction%20-%20Logistic%20Regression.ipynb) | Built a logistic regression model using scikit-learn in Python to predict credit default risk. |
-| [🌊 Feature engineering pipeline] | ( ) |
-| [⚡️ MLOps Pipeline ] | ( ) |
+| [📊 Python Data Science Projects](https://github.com/JJRyan0/john-python-jupyter-notebooks) | Collection of regression, classification, and model evaluation notebooks (GBM, RF, Logistic Regression) using sklearn, numpy, seaborn, MLlib, and pandas. |
+| [🌊 Feature engineering pipeline](https://github.com/JJRyan0/wave_energy_flux_feature_pipeline/blob/main/LaTeX%20Expression%20for%20Wave%20Energy%20Flux%20Formula.ipynb) | Calculting wave engery flux from oceangraphic wave data collected from wave buoys off the coast of Ireland via MQTT protocols to identify new predictive measures for use of onshore analytical platform performance.  |
+| [⚡️ MLOps Pipeline & Docker deployment] | ( ) |
 
 ---
 
