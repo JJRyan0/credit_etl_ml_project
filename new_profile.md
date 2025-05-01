@@ -64,7 +64,7 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 ## 🎓 Education
 
 - 🎓 MSc, **Global Financial Information Systems** – [SETU](https://www.wit.ie/schools/business/school_of_business/msc_in_gfis)  
-- 🎓 Higher Diploma, **Data Analytics** – [National College of Ireland](http://courses.ncirl.ie/index.cfm/page/course/courseId/2372)  
+- 🎓 Higher Diploma, **Data Analytics** – [National College of Ireland](http://courses.ncirl.ie/index.cfm/page/course/courseId/2372)
 - 🎓 BSc, **Business** – South Eastern Technological University  
 
 ---
