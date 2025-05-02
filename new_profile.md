@@ -37,11 +37,11 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 | [⚡️ PySpark MLlib TF-IDF Extraction](https://github.com/JJRyan0/john-python-jupyter-notebooks/blob/master/Apache%20Spark%20(MLlib)%20-%20%20Extracting%20Text%20Features%20for%20TF-IDF.ipynb) | Built a feature extraction model using TF-IDF for natural language processing tasks with PySpark MLlib. |
 | [🔧 ETL Pipeline using Python, Pandas, and SQL ] | ( ) |
 | [💡 DBT incremental model for SCD type 2 Customer Dimension](https://github.com/JJRyan0/dbt_scd2_customer_dim/tree/main) |  Incremental model for a historical load for Type 2 Slowly Changing Dimension (SCD) in dbt using SQL Server, Compareing full source to target, expire old records, insert new records. |
-| [⚡️PySpark - Slowly Changing Dimension (SCD) Type 1]() |      |
+| [⚡️Pandas - Slowly Changing Dimension (SCD) Type 1 ](https://github.com/JJRyan0/credit_risk_modeling_analysis/blob/main/Slowly%20Changing%20Dimension%20(SCD)%20Type%201%20in%20Pandas.ipynb) | Implement Slowly Changing Dimension (SCD) Type 1 in Pandas. Update the existing records with new information when applicable. If no changes are present, keep the existing data.|
 
 ---
 
-### RESTful APIs & NLP
+### RESTful APIs
 
 | Project | Description |
 |--------|-------------|
