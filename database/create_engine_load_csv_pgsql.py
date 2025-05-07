@@ -10,7 +10,7 @@ db_config = {
     "database": "credit_etl"
 }
 
-file_path = "/Users/johnryan/Downloads/german_credit_data.csv"
+file_path = "/Users/johnryan/Downloads/synthetic_credit_data.csv"
 
 #load the csv
 df = pd.read_csv(file_path)
