@@ -1,0 +1,6 @@
+
+fastapi
+joblib
+xgboost
+pandas
+uvicorn[gunicorn]
