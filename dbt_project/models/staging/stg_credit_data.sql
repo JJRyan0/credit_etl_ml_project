@@ -12,4 +12,4 @@ select
     purpose,
 	case
 		when risk = 'good' then 0 else 1 end as is_default
-from raw;
+from raw
