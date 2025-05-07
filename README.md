@@ -4,6 +4,9 @@ This project simulates a real-world credit scoring pipeline, built with dbt, Pyt
 
 ## 🔧 Tech Stack
 - dbt for data modeling (staging + transformations)
+
+- ![image](https://github.com/user-attachments/assets/b369293d-4bb9-4523-966e-b8e4c0bab1c6)
+
 - Postgres as the data source and target
 - Python for ML (scikit-learn, pandas)
 - FastAPI for real-time scoring (optional)
