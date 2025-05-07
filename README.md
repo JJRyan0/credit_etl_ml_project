@@ -2,7 +2,7 @@
 
 This project simulates a real-world credit scoring pipeline, built with dbt, Python, Postgres, and scikit-learn to demonstrate data engineering and MLOps capabilities.
 
-## 🔧 Tech Stack
+## Tech Stack
 - dbt for data modeling (staging + transformations)
 
 - ![image](https://github.com/user-attachments/assets/b369293d-4bb9-4523-966e-b8e4c0bab1c6)
