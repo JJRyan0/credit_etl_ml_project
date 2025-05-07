@@ -1,0 +1,17 @@
+name: 'credit_etl_dbt'
+version: '1.0.0'
+config-version: 2
+
+profile: 'credit_etl'  # This must match your `profiles.yml`
+
+model-paths: ["models"]
+target-path: "target"
+clean-targets: ["target", "dbt_modules"]
+
+models:
+  credit_etl_dbt:
+    +materialized: view
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table
