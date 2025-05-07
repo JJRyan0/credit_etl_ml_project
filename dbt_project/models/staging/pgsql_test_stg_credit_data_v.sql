@@ -1,6 +1,6 @@
 
 
-create view stg_credit_data as
+create view stg_credit_data_v as
 
 select
 	customer_id,
