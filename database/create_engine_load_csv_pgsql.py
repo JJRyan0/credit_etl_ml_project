@@ -3,7 +3,7 @@ import psycopg2
 from sqlalchemy import create_engine
 
 db_config = {
-    "user": "pgadmin",
+    "user": "placeholder",
     "password": "placeholder",
     "host": "localhost",
     "port": 5432,
