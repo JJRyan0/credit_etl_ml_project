@@ -8,7 +8,7 @@ This project simulates a real-world credit scoring pipeline, built with dbt, Pyt
 ## Tech Stack
 - dbt for data modeling (staging + transformations) for synthetic data pipeline test (Here: synthetic data pipeline test.ipynb)
 - Postgres as the data source and target 
-- Python for ML (scikit-learn, XGboost, pandas) (Here: notebooks/Credit Default-XGboost Classify Analysis.ipynb)
+- Python for ML (scikit-learn, XGboost, pandas) (Here:[Credit Default-XGboost Classify Analysis.ipynb)](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/Credit%20Default-XGboost%20Classify%20Analysis.ipynb)
 - FastAPI for real-time scoring
 - MLflow (optional) for model versioning
 
