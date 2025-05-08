@@ -21,7 +21,7 @@ This project simulates a real-world credit scoring pipeline, built with dbt, Pyt
 1. Set up Postgres and run seed scripts
 2. Run `dbt run` to create staging + final tables
 3. Use `notebooks/Credit Default-Pipeline Full.ipynb` to train
-4. Run `inference/score.py` to generate predictions
+4. Run the below to execute real_time predictions with Fast API app
 
 
 -------------------------------------------------
