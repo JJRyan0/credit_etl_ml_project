@@ -23,3 +23,51 @@ This project simulates a real-world credit scoring pipeline, built with dbt, Pyt
 3. Use `notebooks/Credit Default-Pipeline Full.ipynb` to train
 4. Run `inference/score.py` to generate predictions
 
+
+-------------------------------------------------
+# Test the predictive model:
+
+Start up the application once all requirements are installed from requiremnts.txt file
+
+```bash
+
+uvicorn main:app --reload
+
+```bash
+
+http://localhost:8000/docs
+
+```
+
+
+In the Swagger UI, click on /predict, then “Try it out” and enter a sample JSON payload like:
+
+```json
+
+{
+  "LIMIT_BAL": 20000,
+  "SEX": 1,
+  "EDUCATION": 2,
+  "MARRIAGE": 1,
+  "AGE": 25,
+  "PAY_0": 0,
+  "PAY_2": 0,
+  "PAY_3": 0,
+  "PAY_4": 0,
+  "PAY_5": 0,
+  "PAY_6": 0,
+  "BILL_AMT1": 3913,
+  "BILL_AMT2": 3102,
+  "BILL_AMT3": 689,
+  "BILL_AMT4": 0,
+  "BILL_AMT5": 0,
+  "BILL_AMT6": 0,
+  "PAY_AMT1": 0,
+  "PAY_AMT2": 689,
+  "PAY_AMT3": 0,
+  "PAY_AMT4": 0,
+  "PAY_AMT5": 0,
+  "PAY_AMT6": 0
+
+}
+```
