@@ -24,7 +24,6 @@ I’m a **data-driven problem solver** who thrives at the intersection of data e
 | [🧠 ML for Insurance Claims](https://gist.github.com/JJRyan0/0625271b52cf2ac5cfbffa79f1ab471f) | Built a machine learning system to automate insurance claim approval using scikit-learn and pandas. |
 | [📊 Python Data Science Projects](https://github.com/JJRyan0/john-python-jupyter-notebooks) | Collection of experimental  analysis on regression, classification, and model evaluation notebooks (GBM, RF, Logistic Regression) using sklearn, numpy, seaborn, MLlib, and pandas. |
 
-
 ---
 
 ### ETL Pipelines
