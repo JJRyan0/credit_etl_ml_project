@@ -36,21 +36,25 @@ Start up the application once all requirements are installed from requiremnts.tx
 
 ```bash
 
-cd you_root_folder
+% cd /folder/your_root_folder
 
 ```
-
+2. launch the application in the terminal
+   
 ```bash
 
 uvicorn main:app --reload
 
-```bash
+```
+3. Navigate to swagger FastAPI UI
+   
+```html
 
 http://localhost:8000/docs
 
 ```
 
-In the Swagger UI, click on /predict, then “Try it out” and enter a sample JSON payload like:
+4. In the Swagger UI, click on /predict, then “Try it out” and enter a sample JSON payload like:
 
 ```json
 
