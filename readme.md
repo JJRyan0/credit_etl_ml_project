@@ -19,6 +19,7 @@ This project simulates a real-world credit scoring pipeline, built with dbt, Pyt
 - SMOTE - Helps XGBoost focus more on the minority class, improving recall and AUC for imbalanced datasets.
 - Batch or API inference pipeline
 - Clean modular structure for easy deployment
+- [Feature Engineering (In progress for phase 2)](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/model_stage_2/feature_engineering/Credit%20Default%20-%20Feature%20Engineering%20for%20Model%20v2.ipynb) | Recent Payment Ratio, Average Pay Amount, Average Bill Amount.
 
 ## To Reproduce
 1. Set up Postgres and run seed scripts
