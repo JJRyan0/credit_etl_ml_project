@@ -9,7 +9,7 @@ This project simulates a real-world credit scoring pipeline, built with dbt, Pyt
 
 ## Method
 
-- __Model version 1 pipeline: Credit Risk Classifier with XGboost Python(scikit-learn)__ (Pipeline Here:[Credit Default-XGboost Classify Analysis.ipynb)](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/Credit%20Default-XGboost%20Classify%20Analysis.ipynb)
+- __Model version 1 pipeline: Credit Risk Classifier with XGboost__ (Pipeline Here:[Credit Default-XGboost Classify Analysis.ipynb](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/model_v1/Credit%20Default-XGboost%20Classify%20Analysis.ipynb))
 - __Model version 2 pipeline: Credit Risk Classifier with XGboost, new features, SMOTETomek, F1 thresholds for Precison & Recall__ (pipeline here: coming soon ) 
 - dbt for data modeling (staging + transformations) for synthetic data pipeline test (Here: [synthetic data pipeline test.ipynb](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/Synthetic%20data%20pipeline%20test.ipynb))
 - Postgres as the data source and target 
