@@ -9,7 +9,8 @@ This project simulates a real-world credit scoring pipeline, built with dbt, Pyt
 
 ## Method
 
-- __Real Data pipeline: Credit Risk Classifier with XGboost Python(scikit-learn)__ (Pipeline Here:[Credit Default-XGboost Classify Analysis.ipynb)](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/Credit%20Default-XGboost%20Classify%20Analysis.ipynb)
+- __Model version 1 pipeline: Credit Risk Classifier with XGboost Python(scikit-learn)__ (Pipeline Here:[Credit Default-XGboost Classify Analysis.ipynb)](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/Credit%20Default-XGboost%20Classify%20Analysis.ipynb)
+- __Model version 2 pipeline: Credit Risk Classifier with XGboost, new features, SMOTETomek, F1 thresholds for Precison & Recall__ (pipeline here: coming soon ) 
 - dbt for data modeling (staging + transformations) for synthetic data pipeline test (Here: [synthetic data pipeline test.ipynb](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/Synthetic%20data%20pipeline%20test.ipynb))
 - Postgres as the data source and target 
 - FastAPI for [real-time scoring App](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/main.py)
@@ -22,7 +23,7 @@ This project simulates a real-world credit scoring pipeline, built with dbt, Pyt
 - SMOTE - Helps XGBoost focus more on the minority class, improving recall and AUC for imbalanced datasets.
 - Batch or API inference pipeline
 - Clean modular structure for easy deployment
-- [Feature Engineering (In progress for phase 2)](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/model_stage_2/feature_engineering/Credit%20Default%20-%20Feature%20Engineering%20for%20Model%20v2.ipynb) | Recent Payment Ratio, Average Pay Amount, Average Bill Amount.
+- [Feature Engineering (In progress for model version 2)](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/model_v2/Credit%20Default%20-%20Feature%20Engineering%20for%20Model%20v2.ipynb) | Recent Payment Ratio, Average Pay Amount, Average Bill Amount.
 
 ## To Reproduce
 1. Set up Postgres and run seed scripts
