@@ -4,7 +4,7 @@ John Ryan - 10 May 2025
 
 This project simulates a real-world credit scoring pipeline, built with dbt, Python, Postgres, and scikit-learn to demonstrate data engineering and MLOps capabilities.
 
-## Goal: Predict and score default payments (Yes = 1, No = 0), as the response variable. 
+### Goal: Predict and score default payments (Yes = 1, No = 0), as the response variable. 
 
 <img width="1111" alt="image" src="https://github.com/user-attachments/assets/9d72641c-a118-4c6d-996d-51ff029e4926" />
 
