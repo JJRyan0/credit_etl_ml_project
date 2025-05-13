@@ -7,7 +7,7 @@ This project simulates a real-world credit scoring pipeline, built with dbt, Pyt
 <img width="1111" alt="image" src="https://github.com/user-attachments/assets/9d72641c-a118-4c6d-996d-51ff029e4926" />
 
 
-## Tech Stack
+## Method
 
 - __Real Data pipeline: Credit Risk Classifier with XGboost Python(scikit-learn)__ (Pipeline Here:[Credit Default-XGboost Classify Analysis.ipynb)](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/Credit%20Default-XGboost%20Classify%20Analysis.ipynb)
 - dbt for data modeling (staging + transformations) for synthetic data pipeline test (Here: [synthetic data pipeline test.ipynb](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/Synthetic%20data%20pipeline%20test.ipynb))
