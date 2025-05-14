@@ -1,2 +1,2 @@
-duplicates = wavedata[cedit_data.duplicated()]
+duplicates = credit_data[credit_data.duplicated()]
 duplicates
