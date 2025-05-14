@@ -99,6 +99,14 @@ Execute post request to  the trained model application:
 
 ![image](https://github.com/user-attachments/assets/2f9c9979-56e7-45f3-b4ac-73827f84eb80)
 
+
+
+Prediction output: 
+
+![image](https://github.com/user-attachments/assets/9a5f3cab-7478-4cd5-b3aa-42a8956f97c0)
+
+
+
 -----------------------
 
 Copyright (c) 2025 John Ryan - 10 May 2025
@@ -108,8 +116,4 @@ All rights reserved.
 This software may not be copied, modified, distributed, or used in any way without express written permission from the author.
 
 -------------------------
-
-Prediction output: 
-
-![image](https://github.com/user-attachments/assets/9a5f3cab-7478-4cd5-b3aa-42a8956f97c0)
 
