@@ -6,8 +6,6 @@ Copyright (c) 2025 John Ryan - 10 May 2025
 
 All rights reserved.
 
-This software may not be copied, modified, distributed, or used in any way without express written permission from the author.
-
 -------------------------
 
 This project simulates a real-world credit scoring pipeline, built with dbt, Python, Postgres, and scikit-learn to demonstrate data engineering and MLOps capabilities.
