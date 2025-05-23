@@ -10,6 +10,35 @@ This project simulates a real-world credit scoring pipeline, built with dbt, Pyt
 
 <img width="1111" alt="image" src="https://github.com/user-attachments/assets/9d72641c-a118-4c6d-996d-51ff029e4926" />
 
+### Project Description:
+
+In this project, we aim to build a machine learning model to predict the likelihood of a borrower defaulting on a loan based on historical credit data. This will help financial institutions assess and mitigate potential credit risk. The problem is a binary classification task where we will predict if a borrower is likely to default (class 1) or not (class 0).
+
+We’ll be using XGBoost, a powerful gradient boosting framework, as the core algorithm to classify the data. Additionally, we will implement techniques like SMOTE (Synthetic Minority Over-sampling Technique) to handle class imbalance, GridSearchCV to tune hyperparameters, and cross-validation to assess model performance.
+
+### Data Exploration and Preprocessing:
+
+Load and inspect the dataset.
+
+Clean and preprocess the data by handling missing values, encoding categorical variables, and scaling numerical features.
+
+### Feature Engineering:
+
+Create or modify features to better represent the underlying patterns in the data.
+
+### Modeling:
+
+Train an XGBoost classifier on the data.
+
+Implement SMOTE to deal with imbalanced classes.
+
+Use GridSearchCV to tune hyperparameters for optimal model performance.
+
+### Model Evaluation:
+
+Evaluate the model using common metrics like ROC-AUC, Precision, Recall, F1-Score, and the confusion matrix.
+
+Plot ROC curves to visualize model performance.
 
 ## Method
 
