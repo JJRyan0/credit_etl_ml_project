@@ -41,7 +41,7 @@ Evaluate the model using common metrics like ROC-AUC, Precision, Recall, F1-Scor
 Plot ROC curves to visualize model performance.
 
 ## Method
-
+- __Final production script here:__ https://github.com/JJRyan0/credit_etl_ml_project/blob/main/production/production%20main/prod_credit_best_model.py
 - __Model version 1 pipeline: Credit Risk Classifier with XGboost__ (Pipeline Here:[Credit Risk Classifier with XGboost V1](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/model_v1/Credit%20Default-XGboost%20Classify%20Analysis.ipynb))
 - __Model version 2 pipeline: Credit Risk Classifier with XGboost, new features, SMOTETomek, F1 thresholds for Precison & Recall__ (pipeline here: [Credit Risk Classifier with XGboost V2](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/model_v2/Credit%20Risk%20Classifier%20with%20XGboost%20V2.ipynb)) 
 - DBT (data-build tool) for data modeling (staging + transformations) for synthetic data pipeline test (Here: [synthetic data pipeline test.ipynb](https://github.com/JJRyan0/credit_etl_ml_project/blob/main/notebooks/synthetic_model/Synthetic%20data%20pipeline%20test.ipynb))
